@@ -43,6 +43,7 @@ console.log(naikAngkot([
 
 console.log(naikAngkot([])); //[]
 
+//tambahan
 console.log(naikAngkot([
     ['Anhar', 'A', 'F'],
     ['Mineta', 'A', 'B'],
