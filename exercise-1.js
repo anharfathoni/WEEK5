@@ -1,3 +1,5 @@
+//[Exercises 1] Deep Sum
+
 function deepSum(arr) {
     var sum = 0
     if (arr.length === 0) {

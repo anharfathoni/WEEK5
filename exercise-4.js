@@ -1,3 +1,5 @@
+//[Exercises 4] Graduates
+
 function graduates(students) {
     var kelas = []
     var lulusan = {}

@@ -1,3 +1,5 @@
+//[Exercises 3] Highest Score
+
 function highestScore(students) {
     var kelas = []
     var result = {}
